@@ -1,0 +1,72 @@
+body {
+    background-image: url(https://www.fonstola.ru/images/201411/fonstola.ru_152656.jpg);
+    color: white;
+}
+.черт {
+    line-height: 0.8;
+
+}
+.хах{
+    border-radius: 20%;
+    width: 210px;
+}
+.фыф {
+    border-radius: 20%;
+    width: 210px;
+    height: 210px;
+}
+.бебра {
+    border-radius: 20%;
+    width: 210px;
+    height: 210px;
+}
+.лол {
+    border-radius: 20%;
+    width: 210px;
+    height: 210px;
+}
+.картинки {
+    display: flex;
+    justify-content: space-around;
+}
+
+body {
+font-family: 'Prosto One', cursive;
+
+}
+.сас {
+display: flex;
+justify-content: space-around;
+}
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+.кот {
+    width: 1330px;
+    height: 180px;
+    flex-direction: column-reverse;
+    flex-direction: row;
+}
+.op {
+width: 300px;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Prosto One', cursive;
+font-size: 80%;
+}
+.бум {
+font-size: 100%;
+}
+.lol {
+background-color: #ff4040;
+width: 400px;
+height: 65px;
+}
+.песенка {
+display: flex;
+align-content: center;
+justify-content: space-around;
+}
+.правда {
+font-size: 80%;
+}
